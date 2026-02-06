@@ -6,6 +6,7 @@ The choice was specifically made as any analog pin may only give binary voltage 
 The pin was set to appropriate modes give out suitable OUTPUT.
 The Looped part of the Code Blinks the LED at the delayed hardcoded into the code but can be changed by accessing the code itself
 The LED blinks when the circuit is completed by Slide Switch
+A video file is shown of the above working in TinkerCAD
 
 Also includes a Programming Research.pdf to share what I understood about OpenCV Library and YOLO Algorithm
 
